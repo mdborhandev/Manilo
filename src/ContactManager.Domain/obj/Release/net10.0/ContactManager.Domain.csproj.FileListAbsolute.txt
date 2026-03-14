@@ -1,0 +1,12 @@
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/bin/Release/net10.0/ContactManager.Domain.deps.json
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/bin/Release/net10.0/ContactManager.Domain.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/bin/Release/net10.0/ContactManager.Domain.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/obj/Release/net10.0/ContactManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/obj/Release/net10.0/ContactManager.Domain.AssemblyInfoInputs.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/obj/Release/net10.0/ContactManager.Domain.AssemblyInfo.cs
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/obj/Release/net10.0/ContactManager.Domain.csproj.CoreCompileInputs.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/obj/Release/net10.0/ContactManager.Domain.sourcelink.json
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/obj/Release/net10.0/ContactManager.Domain.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/obj/Release/net10.0/refint/ContactManager.Domain.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/obj/Release/net10.0/ContactManager.Domain.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Domain/obj/Release/net10.0/ref/ContactManager.Domain.dll

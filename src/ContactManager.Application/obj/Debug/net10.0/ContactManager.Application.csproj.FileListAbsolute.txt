@@ -1,0 +1,16 @@
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/bin/Debug/net10.0/ContactManager.Application.deps.json
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/bin/Debug/net10.0/ContactManager.Application.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/bin/Debug/net10.0/ContactManager.Application.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/bin/Debug/net10.0/ContactManager.Domain.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/bin/Debug/net10.0/ContactManager.Domain.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ContactManager.Application.csproj.AssemblyReference.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ContactManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ContactManager.Application.AssemblyInfoInputs.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ContactManager.Application.AssemblyInfo.cs
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ContactManager.Application.csproj.CoreCompileInputs.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ContactManager.Application.sourcelink.json
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ContactM.739C78BD.Up2Date
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ContactManager.Application.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/refint/ContactManager.Application.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ContactManager.Application.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/ContactManager.Application/obj/Debug/net10.0/ref/ContactManager.Application.dll
