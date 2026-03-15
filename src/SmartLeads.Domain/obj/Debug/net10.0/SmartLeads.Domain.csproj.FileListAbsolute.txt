@@ -1,0 +1,13 @@
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/bin/Debug/net10.0/SmartLeads.Domain.deps.json
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/bin/Debug/net10.0/SmartLeads.Domain.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/bin/Debug/net10.0/SmartLeads.Domain.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/SmartLeads.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/SmartLeads.Domain.AssemblyInfoInputs.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/SmartLeads.Domain.AssemblyInfo.cs
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/SmartLeads.Domain.csproj.CoreCompileInputs.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/SmartLeads.Domain.sourcelink.json
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/SmartLeads.Domain.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/refint/SmartLeads.Domain.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/SmartLeads.Domain.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/ref/SmartLeads.Domain.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Domain/obj/Debug/net10.0/SmartLeads.Domain.csproj.AssemblyReference.cache

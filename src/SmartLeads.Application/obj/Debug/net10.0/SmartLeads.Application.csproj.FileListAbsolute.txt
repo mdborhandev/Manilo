@@ -1,0 +1,16 @@
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/bin/Debug/net10.0/SmartLeads.Application.deps.json
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/bin/Debug/net10.0/SmartLeads.Application.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/bin/Debug/net10.0/SmartLeads.Application.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/bin/Debug/net10.0/SmartLeads.Domain.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/bin/Debug/net10.0/SmartLeads.Domain.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/SmartLeads.Application.csproj.AssemblyReference.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/SmartLeads.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/SmartLeads.Application.AssemblyInfoInputs.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/SmartLeads.Application.AssemblyInfo.cs
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/SmartLeads.Application.csproj.CoreCompileInputs.cache
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/SmartLeads.Application.sourcelink.json
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/SmartLea.089DD37C.Up2Date
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/SmartLeads.Application.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/refint/SmartLeads.Application.dll
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/SmartLeads.Application.pdb
+/home/borhan-uddin-fahim/DRIVE A/Projects/ContactManager/src/SmartLeads.Application/obj/Debug/net10.0/ref/SmartLeads.Application.dll

@@ -1,0 +1,51 @@
+﻿/* GT Framework Layout Styles for ContactManager */
+
+/* Custom styles for ContactManager application */
+.layout-menu {
+    background-color: #fff;
+}
+
+.app-brand-link {
+    text-decoration: none;
+}
+
+.menu-text {
+    font-size: 0.9375rem;
+}
+
+/* Custom card styles for contacts */
+.contact-card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.contact-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+/* Avatar placeholder styles */
+.avatar-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bs-primary-bg-subtle);
+    color: var(--bs-primary);
+    font-weight: 600;
+}
+
+/* Footer styles */
+.content-footer {
+    background-color: #f5f5f9;
+}
+
+/* Navbar search styles */
+.navbar-search-wrapper {
+    cursor: pointer;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1199px) {
+    .layout-menu {
+        display: none;
+    }
+}
